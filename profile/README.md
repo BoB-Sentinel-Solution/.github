@@ -21,15 +21,18 @@
 - Name
 - Address
 - Phone Number
+- ETC...   
 
 ### Supported AI Services  
 - ChatGPT
 - Cursor AI
 - Cluade
+- ETC...
 
 ### Supported File Extensions  
 - PDF   
 - TXT
+- ETC...  
 
 ### Supported OS  
 - Windows
