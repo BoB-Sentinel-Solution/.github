@@ -7,7 +7,7 @@
 **Host Organization:** Best of the Best 14th at KITRI   
 
 ## Team Composition   
-**Main Mentor:** Daniel Park  
+**Main Mentor:** 박문범  
 **Assistant Mentor:** 박경재  
 **Project Leader:** 정재현  
 **Project Manager:** 김민서  
