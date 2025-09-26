@@ -12,7 +12,7 @@
 **Project Leader:** 정재현  
 **Project Manager:** 김민서  
 **Project Member:** 박하은 / `Endpoint Agent Development`      
-**Project Member:** 이강호 / `AI Engineering`, `Server Development`
+**Project Member:** 이강호 / `AI Engineering, Server Development`  
 **Project Member:** 이시온 / `Endpoint Agent Development`  
 **Project Member:** 최원혁 / `AI Engineering`  
 
