@@ -25,12 +25,13 @@
 
 ### Supported AI Services  
 - ChatGPT
-- Cursor AI
+- Gemini
 - Cluade
 - ETC...
 
 ### Supported File Extensions  
-- PDF   
+- PDF
+- IMAGE   
 - TXT
 - ETC...  
 
