@@ -17,28 +17,109 @@
 **Project Member:** 최원혁 / `AI Engineering`  
 
 ## Solution Skills  
-### Supported Important Informations  
-- Name
-- Address
-- Phone Number
-- ETC...   
+### Supported Important Informations     
+**기본 신원 정보**
+- 성명
+- 전화번호
+- 이메일 등 총 5개의 정보
+
+**공적 식별번호**
+- 개인통관고유번호
+- 주민등록번호
+- 여권번호 등 총 8개의 정보
+
+**인증 정보**
+- JWT
+- API 키
+- Github Personal Access Token 등 총 4개의 정보
+
+**금융 정보**
+- 카드 번호
+- 카드 유효 기산
+- 계좌번호 등 총 6개 정보
+
+**가상화폐 정보**
+- 니모닉 구문
+- 가상자산 개인키
+- HD 지갑 확장키 등 총 4개의 정보
+
+**네트워크 정보 + IMEI**
+- IPv4
+- IPv6
+- MAC 주소 등 총 4개의 정보
+
+총 31개의 정보   
+
+<br>
 
 ### Supported AI Services  
-- ChatGPT
+**설치형 Agent(LLM/MCP 환경)**
+- ChatGPT(Desktop)
 - Gemini
-- Cluade
-- ETC...
+- Claude
+- DeepSeek
+- VScode Copilot
+- Groq
+
+**크롬 확장 프로그램(LLM 환경)**
+- ChatGPT
+- DeepSeek
+- Gemini 등 총 13개의 대화형 AI 서비스
+
+<br>
 
 ### Supported File Extensions  
-- PDF
-- IMAGE   
+**프롬프트**   
+- 기본 Text 입력형 프롬프트
+
+**문서**
 - TXT
-- ETC...  
+- PPT
+- CSV
+- Docx
+- PDF 등 파일 구조 기반 문서 및 PDF 지원
+
+**이미지**
+- PNG
+- JPG 등 이미지 파일 지원
+
+<br>
+
+### Development Environment
+- **개발 언어:** Python
+- **런타임:** Ubuntu 24.04 LTS
+- **백엔드 프레임워크:** FastAPI, Uvicorn
+- **프론트엔드:** HTML, CSS, Vanilla JS
+- **DB:** SQLite
+
+<br>
+
+### Required Environment 
+**설치형 Agent**
+- **운영체제:** Windows 운영체제
+- **라이브러리:** Python 3.13 버전 이상
+- **저장 공간:** 15MB
+- **설치 방식:** exe 파일 실행
+
+**크롬 확장 프로그램**
+- **사전 설치:** 프로그램 Chrome 브라우저
+- **저장 공간:** 25.18KiB
+- **설치 방식:** 배포된 크롬 확장 프로그램 설치
+
+**솔루션 서버(내/외부망)**
+- **운영체제:** Ubuntu 24.04 LTS 권장
+- **CPU / RAM:** 4 vCPU 이상 / RAM 24GB 이상
+- **GPU:** GPU 1장 이상(추론 / 분석용), GeForce RTX 3060 12GB 이상(CUDA 지원 필요)
+- **저장 공간:** 20GB 이상
+- **네트워크:** 내부망( 설 IP, 내부 DNS/라우팅), 외부망(공인 IP 또는 도메인, 443(HTTPS) 오픈)
+- **설치 방식:** 쉘스크립트 실행
+
+<br>
 
 ### Supported OS  
 - Windows
-- macOS
+
+<br>
 
 ### Adoption Model for Sentinel Solution    
-- On-Premise
-- Private Cloude
+- On-Premise 등 외부 연결과 차단된 내/외부망 기업 서버
