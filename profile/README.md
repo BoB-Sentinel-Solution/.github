@@ -63,7 +63,7 @@
 
 **크롬 확장 프로그램(LLM 환경)**
 - ChatGPT
-- DeepSeek
+- Claude
 - Gemini 등 총 13개의 대화형 AI 서비스
 
 <br>
