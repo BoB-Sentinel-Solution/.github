@@ -85,34 +85,23 @@
 
 <br>
 
-### Development Environment
-- **개발 언어:** Python
-- **런타임:** Ubuntu 24.04 LTS
-- **백엔드 프레임워크:** FastAPI, Uvicorn
-- **프론트엔드:** HTML, CSS, Vanilla JS
-- **DB:** SQLite
-
-<br>
-
 ### Required Environment 
 **설치형 Agent**
 - **운영체제:** Windows 운영체제
 - **라이브러리:** Python 3.13 버전 이상
-- **저장 공간:** 15MB
 - **설치 방식:** exe 파일 실행
 
 **크롬 확장 프로그램**
 - **사전 설치:** 프로그램 Chrome 브라우저
-- **저장 공간:** 25.18KiB
 - **설치 방식:** 배포된 크롬 확장 프로그램 설치
 
 **솔루션 서버(내/외부망)**
 - **운영체제:** Ubuntu 24.04 LTS 권장
 - **CPU / RAM:** 4 vCPU 이상 / RAM 24GB 이상
-- **GPU:** GPU 1장 이상(추론 / 분석용), GeForce RTX 3060 12GB 이상(CUDA 지원 필요)
+- **GPU:** GPU 최소 1장 이상(추론 / 분석용), 최소 GeForce RTX 3060 12GB 이상(CUDA 지원 필요)
 - **저장 공간:** 20GB 이상
-- **네트워크:** 내부망( 설 IP, 내부 DNS/라우팅), 외부망(공인 IP 또는 도메인, 443(HTTPS) 오픈)
-- **설치 방식:** 쉘스크립트 실행
+- **네트워크:** 내부망(설정 IP, 내부 DNS/라우팅), 외부망(공인 IP 또는 도메인, 443(HTTPS) 오픈)
+- **설치 방식:** 쉘스크립트(SentinelServer_AI/blob/main/setup/scripts/deploy.sh) 실행
 
 <br>
 
