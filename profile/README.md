@@ -1,7 +1,7 @@
 # <img width="35" height="35" alt="될것같은데_Sentinel_Logo" src="https://github.com/user-attachments/assets/1acdd9a9-5e0f-4cfe-8c40-c01df769e29e" /> Sentinel Solution  
 
 ## Introduction  
-**Team Name:** Team.될것같은데  
+**Team Name:** 될것같은데  
 **Project Title:** LLM / MCP 환경에서 기업 내 중요정보 유출 차단 솔루션 개발  
 **Solution Name:** Sentinel     
 **Host Organization:** Best of the Best 14th at KITRI   
